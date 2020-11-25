@@ -8,7 +8,7 @@ window.onload = function()
     let List;
 
     // Get List of Gifts
-    fetch('/js/gifts.json')
+    fetch('ChristmasList2020/js/gifts.json')
     .then(res => res.json())
     .then(data => List = data)
     .then(() => {
