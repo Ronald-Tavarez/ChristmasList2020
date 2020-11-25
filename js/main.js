@@ -42,7 +42,7 @@ window.onload = function()
                 `<a href="${Gift.link}" target="_blank" title="${Gift.title}">
                     <span class="DropDownGroup">
                         <h2 class="DropDownLinkTitle">${Gift.title}</h2>
-                        <img class="ClothingImage" src="${Gift.path}" alt="${Gift.title} Image">
+                        <img class="ClothingImage" src="img/${Gift.path}" alt="${Gift.title} Image">
                     </span>
                 </a>`;
             }
