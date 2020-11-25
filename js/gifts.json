@@ -1,0 +1,189 @@
+{
+    "sections": [{
+            "title": "Electronics",
+            "icon": "🕹️",
+            "gifts": [{
+                    "link": "https://www.hitboxarcade.com/products/ps4-pc-hit-box",
+                    "title": "HitArcade Hit Box",
+                    "path": "/img/Electronics_Hitbox.png"
+                },
+                {
+                    "link": "https://www.amazon.ca/Dual-Monitor-Mount-Stand-Adjustable/dp/B0834JH3P1/ref=sr_1_20?dchild=1&keywords=monitor+stand&qid=1605577357&sr=8-20",
+                    "title": "Double Articulating Monitor Stand",
+                    "path": "/img/Electronics_Double.jpg"
+                },
+                {
+                    "link": "https://www.amazon.ca/Single-Monitor-Mount-Articulating-Adjustable/dp/B07T4JD7CV?ref_=Oct_s9_apbd_orecs_hd_bw_bjC7Gt&pf_rd_r=C2W6HEYWQHZFSJDHVXZ7&pf_rd_p=e1db454d-8dab-5994-b270-241de6c82087&pf_rd_s=merchandised-search-11&pf_rd_t=BROWSE&pf_rd_i=667823011",
+                    "title": "Single Articulating Monitor Stand",
+                    "path": "/img/Electronics_Single.jpg"
+                },
+                {
+                    "link": "https://www.newegg.ca/p/N82E16824160350?Item=N82E16824160350",
+                    "title": "AOC G2590FX 25\"",
+                    "path": "/img/Electronics_Monitor.jpg"
+                },
+                {
+                    "link": "https://www.newegg.ca/g-skill-64gb-288-pin-ddr4-sdram/p/N82E16820374049",
+                    "title": "Trident Z 4000MTs RAM (2 x 32gb)",
+                    "path": "/img/Electronics_Trident.jpg"
+                },
+                {
+                    "link": "https://www.newegg.ca/amd-ryzen-9-3900x/p/N82E16819113103?Description=ryzen%209&cm_re=ryzen_9-_-19-113-103-_-Product",
+                    "title": "AMD RYZEN 9 3900X",
+                    "path": "/img/Electronics_CPU.jpg"
+                },
+                {
+                    "link": "https://www.amazon.ca/quiet-BK022-Cooler-6-Pole-Wings135mm/dp/B07BY6F8D9/ref=sr_1_2?crid=HB58SXHLH9AZ&dchild=1&keywords=cryorig+cpu+cooler&qid=1605669462&sprefix=cryorig+cpu+c%2Caps%2C167&sr=8-2",
+                    "title": "be quiet! Dark Rock Pro 4",
+                    "path": "/img/Electronics_Cooler.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Clothing",
+            "icon": "👕",
+            "gifts": [{
+                    "link": "https://merch.riotgames.com/en-us/product/change-is-good-tee-unisex/",
+                    "title": "Kha'Zix Tee",
+                    "path": "/img/KhaTee.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/tonight-we-hunt-tee-unisex/",
+                    "title": "Hunt Tee",
+                    "path": "/img/HuntTee.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/minion-mayhem-tee-red-unisex/",
+                    "title": "Join Red Tee",
+                    "path": "/img/JoinRedTee.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/minion-mayhem-tee-blue-unisex/",
+                    "title": "Join Blue Tee",
+                    "path": "/img/JoinBlueTee.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/ekko-tee/",
+                    "title": "Ekko Tee",
+                    "path": "/img/EkkoTee.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/heimerdinger-schematic-tee/",
+                    "title": "Heimer Tee",
+                    "path": "/img/HeimerTee.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/face-the-storm-tee-unisex/",
+                    "title": "Storm Tee",
+                    "path": "/img/VoliTee.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/omega-squad-teemo-hoodie-unisex/",
+                    "title": "Omega Squad Hoodie",
+                    "path": "/img/Hoodie_Omega.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/corki-flyer-hoodie-unisex/",
+                    "title": "Corki Hoodie",
+                    "path": "/img/Hoodie_Corki.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/blue-holiday-poro-sweatshirt-unisex/",
+                    "title": "Holiday Poro Sweater",
+                    "path": "/img/Sweater_Poro.png"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/jackets/products/arumi-bomber-jacket?variant=14864020176938",
+                    "title": "Arumi Bomber Jacket",
+                    "path": "/img/Jacket_Arumi.jpg"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/pants/products/gelyu-harem-jogging-pants?variant=14857210363946",
+                    "title": "Gelyu Harem Pants",
+                    "path": "/img/Pants_Gelyu.jpg"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/pants/products/maikito-pants",
+                    "title": "Maikito Pants",
+                    "path": "/img/Pants_Maikito.jpg"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/pants/products/dester-loose-jogging-pants",
+                    "title": "Dester Loose Pants",
+                    "path": "/img/Pants_Dester.jpg"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/pants/products/dansuri-pants",
+                    "title": "Dansuri Pants",
+                    "path": "/img/Pants_Dansuri.jpg"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/pants/products/tabiko-pants",
+                    "title": "Tabiko Pants",
+                    "path": "/img/Pants_Tabiko.jpg"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/pants/products/kilatu-pants",
+                    "title": "Kilatu Pants",
+                    "path": "/img/Pants_Kilatu.jpg"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/pants/products/royale-blue-pants",
+                    "title": "Royale Blue Pants",
+                    "path": "/img/Pants_Royale.jpg"
+                },
+                {
+                    "link": "https://kidoriman.com/collections/pants/products/oleno-harem-denim-pants",
+                    "title": "Oleno Harem Denim Pants",
+                    "path": "/img/Pants_Oleno.jpg"
+                },
+                {
+                    "link": "https://stockx.com/nike-sf-air-force-1-high-black-dark-grey",
+                    "title": "Nike SF Air Force 1 High",
+                    "path": "/img/Shoes_SFAF1High.jpg"
+                },
+                {
+                    "link": "https://stockx.com/nike-air-presto-mid-acronym-cool-grey",
+                    "title": "Nike Presto Acronym Cool Grey",
+                    "path": "/img/Shoes_Prestos.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Misc",
+            "icon": "🧳",
+            "gifts": [
+                {
+                "link": "https://merch.riotgames.com/en-us/product/team-noxus-darius-headband/",
+                "title": "Darius Headband",
+                "path": "/img/Misc_Headband.png"
+                }, 
+                {
+                "link": "https://merch.riotgames.com/en-us/product/red-minion-slippers/",
+                "title": "Minion Slippers",
+                "path": "/img/Misc_Slippers.png"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/volibear-posters/",
+                    "title": "Unframed Volibear Poster (24 x 36)",
+                    "path": "/img/Poster_Voli.jpg"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/mordekaiser-posters/",
+                    "title": "Unframed Dark Star Mordekaiser Poster (24 x 36)",
+                    "path": "/img/Poster_Morde.jpg"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/khazix-posters/",
+                    "title": "Unframed Dark Star Kha'Zix Poster (24 x 36)",
+                    "path": "/img/Poster_Kha.jpg"
+                },
+                {
+                    "link": "https://merch.riotgames.com/en-us/product/chogath-posters/",
+                    "title": "Unframed Dark Star Cho'Gath Poster (24 x 36)",
+                    "path": "/img/Poster_Cho.jpg"
+                }
+            ]
+        }
+    ]
+}
